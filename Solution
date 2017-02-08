@@ -1,0 +1,6 @@
+To generate a signed apk , we should follow the steps given below-
+1-> In the menu bar, click Build -> Generate Signed APK.
+2-> Select the module you would like to release from the drop down, and click Next.
+3-> Create you new keystore or if you have an existing one then click next after choosing you key store.
+4-> If you are creating a new keystore , then fill out the necessary details and then click next.
+5-> Change the build type to release and click on finish and it will automatically save the signed apk in our app folder\. 
